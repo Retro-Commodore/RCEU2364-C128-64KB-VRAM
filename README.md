@@ -3,6 +3,8 @@
  
  See more colors, get higher resolutions, Watch Risen to Oblivion demo as it should be seen.
  
+ NOTE: this revision is yet not testet, but should work.
+ 
  
 # BOM
  Optional  
