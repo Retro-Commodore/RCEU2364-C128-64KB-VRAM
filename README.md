@@ -17,7 +17,7 @@
  
 # How to place components
 
-Carefully pull out the 80 column graphics chip MOS8563, and insert it into the socket of the vram expansion.  
+Carefully pull out the 80 column graphics chip MOS8563, and insert/solder (highly recommended to use a socket) it into the socket of the vram expansion.  
 Insert the vram expansion into the socket where the MOS8563 was sitting.
 
 
